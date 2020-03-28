@@ -27,7 +27,6 @@ schemes:
   - https
   - http
 x-wso2-basePath: /petstore/v1
-x-wso2-throttling-tier: 3PerMin
 x-wso2-production-endpoints:
   urls:
     - 'https://petstore.swagger.io/v2/'
